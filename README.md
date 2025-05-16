@@ -1,4 +1,5 @@
-# [APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds](https://arxiv.org/abs/2505.09971)
+# APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds
+Official code for  [APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds](https://arxiv.org/abs/2505.09971).
 
 Airborne laser scanning (ALS) point cloud segmentation is a fundamental task for large-scale 3D scene understanding. In realworld
 applications, models are typically fixed after training. However, domain shifts caused by changes in the environment, sensor
