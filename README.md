@@ -21,3 +21,17 @@ results demonstrate that APCoTTA achieves the best performance on two benchmarks
 
 # Note
 We will release our code soon.
+
+# Cite
+Please cite our work if you find it useful.
+```bibtex
+@misc{gao2025apcottacontinualtesttimeadaptation,
+      title={APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds}, 
+      author={Yuan Gao and Shaobo Xia and Sheng Nie and Cheng Wang and Xiaohuan Xi and Bisheng Yang},
+      year={2025},
+      eprint={2505.09971},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.09971}, 
+}
+```
