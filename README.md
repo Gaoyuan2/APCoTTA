@@ -8,7 +8,7 @@
 
 This is the official PyTorch implementation of the paper **"APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds"**.
 
-**Authors:** Yuan Gao, Shaobo Xia*, Sheng Nie, Cheng Wang, Xiaohuan Xia, Bisheng Yang.
+**Authors:** Yuan Gao, Shaobo Xia*, Sheng Nie, Cheng Wang, Xiaohuan Xi, Bisheng Yang.
 
 <p align="center">
   <img src="docs/framework.png" width="800"/> 
