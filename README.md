@@ -33,7 +33,7 @@ Fixed models deployed in real-world scenarios often suffer from performance degr
 
 ### 3.1 Clone the repository
 ```bash
-git clone https://github.com/YourUsername/APCoTTA.git
+git clone https://github.com/Gaoyuan2/APCoTTA.git
 cd APCoTTA
 ```
 
