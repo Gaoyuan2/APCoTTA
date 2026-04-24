@@ -13,7 +13,7 @@ This is the official PyTorch implementation of the paper **"APCoTTA: Continual T
 <p align="center">
   <img src="docs/framework.png" width="800"/> 
 </p>
-*Figure 1: Overview of the proposed APCoTTA framework.*
+Figure 1: Overview of the proposed APCoTTA framework.
 
 ---
 
