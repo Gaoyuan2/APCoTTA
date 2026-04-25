@@ -99,8 +99,7 @@ mkdir data
 We provide pre-trained source models via **Baidu Netdisk** (for users in mainland China) and **Google Drive** (for international users).
 
 ### 5.1 Download
-- **Link**: [APCoTTA_PretrainedWeight 链接: https://pan.baidu.com/s/1m9NBwqP1nnNX-S-hu_5ZcA?pwd=5xqd 提取码: 5xqd] 
-- **Baidu Netdisk**: [APCoTTA_PretrainedWeight 链接: https://pan.baidu.com/s/1m9NBwqP1nnNX-S-hu_5ZcA?pwd=5xqd 提取码: 5xqd]
+- **Baidu Netdisk**: [Link](https://pan.baidu.com/s/1m9NBwqP1nnNX-S-hu_5ZcA?pwd=5xqd) (提取码: 5xqd) 
 - **Google Drive**: [[Link](https://drive.google.com/drive/folders/12B9lfi-uT3RgGDkxOAS97lRf7cDzHtd1?usp=drive_link)]
 ### 5.2 Storage Path
 Download and place the `results` folder into the `APCoTTA` folder:
