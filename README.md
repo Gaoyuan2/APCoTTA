@@ -137,7 +137,7 @@ python run_APCoTTA_H3DC.py
 
 ## 📖 8. Citation
 ```bibtex
-@misc{gao2026apcottacontinualtesttimeadaptation,
+@misc{gao2026apcotta,
       title={APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds}, 
       author={Yuan Gao and Shaobo Xia and Sheng Nie and Cheng Wang and Xiaohuan Xi and Bisheng Yang},
       year={2026},
@@ -166,4 +166,3 @@ We sincerely thank the authors of the following open-source repositories for the
 This project is licensed under the MIT License.
 ```
 
-祝你的开源工作顺利，收获满满的 Star！
