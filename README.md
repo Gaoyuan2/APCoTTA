@@ -137,14 +137,14 @@ python run_APCoTTA_H3DC.py
 
 ## 📖 8. Citation
 ```bibtex
-@misc{gao2026apcotta,
-      title={APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds}, 
-      author={Yuan Gao and Shaobo Xia and Sheng Nie and Cheng Wang and Xiaohuan Xi and Bisheng Yang},
-      year={2026},
-      eprint={2505.09971},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.09971}, 
+@article{GAO2026339,
+title = {APCoTTA: Continual Test-Time Adaptation for semantic segmentation of airborne LiDAR point clouds},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {237},
+pages = {339-354},
+year = {2026},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2026.04.040}
 }
 ```
 
