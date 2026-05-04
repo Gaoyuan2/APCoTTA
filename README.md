@@ -3,7 +3,7 @@
 
 # APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds
 
-[![Paper](https://img.shields.io/badge/Paper-%5BLink%5D-blue)](https://arxiv.org/abs/2505.09971v2) 
+[![Paper](https://img.shields.io/badge/Paper-%5BLink%5D-blue)](https://arxiv.org/abs/2505.09971) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This is the official PyTorch implementation of the paper **"APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds"**.
